@@ -12,8 +12,10 @@ checkout.google.com
 chrome.google.com
 clients.google.com
 clients2.google.com
+clients3.google.com
 clients4.google.com
 clients5.google.com
+clients6.google.com
 code.google.com
 corp.google.com
 developers.google.com
@@ -22,6 +24,7 @@ docs.google.com
 drive.google.com
 gg.google.com
 groups.google.com
+history.google.com
 images.google.com
 investor.google.com
 khms0.google.com
@@ -57,8 +60,13 @@ googlemail.com
 
 clients.googleusercontent.com
 clients2.googleusercontent.com
+clients3.googleusercontent.com
+clients4.googleusercontent.com
 clients5.googleusercontent.com
+clients6.googleusercontent.com
+doc-0c-24-docs.googleusercontent.com
 doc-0k-24-docs.googleusercontent.com
+doc-0s-24-docs.googleusercontent.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
