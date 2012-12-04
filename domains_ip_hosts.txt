@@ -11,6 +11,7 @@ chatenabled.mail.google.com
 checkout.google.com
 chrome.google.com
 clients.google.com
+clients1.google.com
 clients2.google.com
 clients3.google.com
 clients4.google.com
@@ -25,6 +26,7 @@ drive.google.com
 gg.google.com
 groups.google.com
 history.google.com
+id.google.com
 images.google.com
 investor.google.com
 khms0.google.com
@@ -46,6 +48,7 @@ play.google.com
 plus.google.com
 plusone.google.com
 profiles.google.com
+services.google.com
 sites.google.com
 sketchup.google.com
 support.google.com
@@ -72,6 +75,7 @@ lh4.googleusercontent.com
 lh5.googleusercontent.com
 lh6.googleusercontent.com
 mail-attachment.googleusercontent.com
+themes.googleusercontent.com
 
 googleadservices.com
 www.googleadservices.com
@@ -109,3 +113,8 @@ news.google.com.hk
 picasa.google.com.hk
 translate.google.com.hk
 video.google.com.hk
+
+android.com
+www.android.com
+developer.android.com
+source.android.com
