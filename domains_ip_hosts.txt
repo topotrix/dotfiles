@@ -47,6 +47,7 @@ picasaweb.google.com
 play.google.com
 plus.google.com
 plusone.google.com
+productforums.google.com
 profiles.google.com
 services.google.com
 sites.google.com
@@ -70,6 +71,7 @@ clients6.googleusercontent.com
 doc-0c-24-docs.googleusercontent.com
 doc-0k-24-docs.googleusercontent.com
 doc-0s-24-docs.googleusercontent.com
+feedback.googleusercontent.com
 lh3.googleusercontent.com
 lh4.googleusercontent.com
 lh5.googleusercontent.com
@@ -83,6 +85,7 @@ www.googleadservices.com
 ssl.google-analytics.com
 www.google-analytics.com
 
+csi.gstatic.com
 g0.gstatic.com
 g1.gstatic.com
 g2.gstatic.com
